@@ -1,0 +1,18 @@
+target
+.snfoundry_cache/
+snfoundry_trace/
+coverage/
+profile/
+
+# Environment
+.env
+.env.local
+*.local
+
+# Dependencies & build
+node_modules/
+dist/
+eigentee/dist/
+
+# OS
+.DS_Store
