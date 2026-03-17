@@ -1,6 +1,6 @@
 # STRK ↔ UPI P2P Escrow
 
-**Trustless on-chain escrow for STRK tokens with off-chain UPI payments, verified by an Eigen TEE.**
+**Verifiable on-chain escrow for STRK tokens with off-chain UPI payments, verified by an Eigen TEE.**
 
 ## TL;DR
 
