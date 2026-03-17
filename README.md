@@ -1,6 +1,6 @@
-# STRK ↔ UPI P2P Escrow
+# TrustX 
 
-**Verifiable on-chain escrow for STRK tokens with off-chain UPI payments, verified by an Eigen TEE.**
+**P2P INR(via UPI)<>STRK Marketplace for on/offramp with off-chain UPI payments, verified by an Eigen TEE.
 
 ## TL;DR
 
